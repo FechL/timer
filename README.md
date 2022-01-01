@@ -9,7 +9,7 @@ Hanya timer.
 * clone [repository](https://github.com/FechL/timer.git) ini
 
 ```bash
-git clone https://github.com/FechL/timer.git.git
+git clone https://github.com/FechL/timer.git
 ```
 
 ### download zip (cara lain)
