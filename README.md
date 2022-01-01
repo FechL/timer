@@ -1,4 +1,4 @@
-# matrix
+# timer
 
 Hanya timer.
 
