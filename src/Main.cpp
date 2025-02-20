@@ -12,6 +12,7 @@ int main()
 	int sec; // second
 
 	cout << "set timer: ";
+	cout << "set timer: ";
 	cin >> sec;
 
 	
